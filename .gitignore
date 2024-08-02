@@ -1,0 +1,10 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore environment variables file
+.env
+
+# Ignore Alembic migration files and configuration
+alembic/
+alembic.ini
